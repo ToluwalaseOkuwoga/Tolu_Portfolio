@@ -12,21 +12,48 @@
     
     
     <item>
-      <title>Project 1: Commodity Trade</title>
+      <title>Insurance Cost Prediction</title>
+      <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 01 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-5/</guid>
+      <description>Explored the dataset Prepared the dataset for training Created a linear regression model Trained the model to fit the data Made predictions using the trained model    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Commodity Trade</title>
       <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-1/</link>
-      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      <pubDate>Mon, 22 Jun 2020 11:00:59 -0400</pubDate>
       
       <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-1/</guid>
       <description>Cleaned the data to fill missing values and deal with outliers. Used different visualization techniques to derive meaningful insight from the Data. Created a Dashboard using Dash by Plotly to visualize the top 10 Countries in trade by USD.    Link to Github Repository</description>
     </item>
     
     <item>
-      <title>Project 2: Hotel bookings prediction</title>
+      <title>Image Classifier</title>
+      <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 20 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-3/</guid>
+      <description>Explored the CIFAR10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html Set up a training pipeline to train a neural network on a GPU Experimented with different network architectures &amp;amp; hyperparameters    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Hotel bookings prediction</title>
       <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-2/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 08 Jun 2020 10:58:08 -0400</pubDate>
       
       <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-2/</guid>
       <description>Did an Exploratory Data Analysis to better understand the data and answer some important questions. Created a model that predicts whether or not a guest that has booked will actually come. Evaluated the features that are the most important to predict cancellations.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Live Dashboard</title>
+      <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-4/</guid>
+      <description>Built a dashboard that automatically updates based on the statistics data of all countries . Added a section for Global trending Covid news.    Link to Website</description>
     </item>
     
   </channel>
