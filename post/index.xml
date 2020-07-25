@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Recommender System</title>
+      <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-6/</link>
+      <pubDate>Thu, 23 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-6/</guid>
+      <description>Explored the dataset Built a model using User Based Collaborative Filtering Deployed the model in a Shiny app    Link to Website
+Link to Github Repository</description>
+    </item>
+    
+    <item>
       <title>Insurance Cost Prediction</title>
       <link>https://toluwalaseokuwoga.github.io/Tolu_Portfolio/post/project-5/</link>
       <pubDate>Wed, 01 Jul 2020 10:58:08 -0400</pubDate>
